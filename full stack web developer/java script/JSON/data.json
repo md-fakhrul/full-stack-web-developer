@@ -1,0 +1,8 @@
+{
+    "person": [
+        {"name":"kamal","age":25,"hometown":"dhaka","married":false},
+        {"name":"rocky","age":20,"hometown":"comilla","married":true},
+        {"name":"babu","age":22,"hometown":"jamalpur","married":false},
+        {"name":"kamal","age":25,"hometown":"dhaka","unmarried":true}
+    ]
+}
